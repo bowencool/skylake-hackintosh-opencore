@@ -823,7 +823,6 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>ApfsDriverLoader.efi</string>
 			<string>HfsPlus.efi</string>
 			<string>MemoryAllocation.efi</string>
 			<string>OpenRuntime.efi</string>
